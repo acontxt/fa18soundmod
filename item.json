@@ -1,0 +1,15 @@
+﻿{
+  "$schema": "https://gitlab.com/vtolvr-mods/ModLoader/-/raw/release/schema.json",
+  "Title": "FA/18 sound mod",
+  "Description": "FA/18 sound mod lol",
+  "PreviewImageUrl": "https://i.imgur.com/ImwpESp.jpeg",
+  "MetaData": {
+    "DllName": "",
+    "AllowLoadOnStart": true,
+    "ShowOnMainList": true,
+    "DllHash": ""
+  },
+  "DependenciesIds": [
+     3311941009
+  ]
+}
